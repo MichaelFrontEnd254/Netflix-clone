@@ -1,1 +1,1 @@
-This a basic netflix-clone i created for beginners. Where you don't understand just let me know 
+This a basic netflix-clone i created for beginners. The code is not for sale it's free !!!! 
