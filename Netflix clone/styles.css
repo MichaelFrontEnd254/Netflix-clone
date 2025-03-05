@@ -1,0 +1,115 @@
+body{
+    background: black;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    color: white;
+}
+
+main{
+    width: 450px;
+    height: 700px;
+    background-color: blarsck;
+    text-align: center;
+}
+.logo h1{
+    float: left;
+    font-size: 15px;
+}
+.logo h1 strong{
+    color: red;
+    font-family: bahnschrift;
+    font-size: 30px;
+    padding: 10px;
+    font-weight: 950;
+}
+.logo h1 sup{
+    font-family: bahnschrift;
+    letter-spacing: 5px;
+}
+.title{
+    float: lefti;
+    margin-right: 250px;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    float: left;
+    margin: 10px;
+    font-family: Bahnschrift;
+}
+.plus{
+    background: hsl(0, 4%, 25%);
+    width: 35px;
+    border-radius: 3px;
+}
+.hd{
+    background: transparent;
+    border: 1px solid white;
+    width: 25px;
+    font-size: 11px;
+    text-align: center;
+    border-radius: 1px;
+}
+.top{
+    color: #fff;
+    background: red;
+    font-size: 11px;
+    border-radius: 2px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}.topshows{
+    float: left;
+}
+.resume {
+    text-align: center;
+    font-size: 11px;
+    float: lefte;
+    margin: 15px;
+    padding-right: 130px;
+    background: white;
+    border-radius: 5px;
+    color: black;
+    padding: 1px;
+    font-family: Bahnschrift;
+}
+h3{
+    font-family: Bahnschrift;
+    float: left;
+    margin: 1px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+input{
+    width: 330px;
+    float: left;
+    margin: 10px;
+}
+.description p{
+    font-size: 15px;
+    font-family: Bahnschrift;
+}
+progress{
+    width: 330px;
+    margin: 10px;
+    color: grey;
+    float: left;
+    height: 2px;
+    border: 1px solid red;
+}
+.bottom-panel a img{
+    width: 30px;
+    margin: 25px;
+}
+.bottom-panel div{
+    background: grey;
+    text-align: center;
+    margin: 10px;
+}
+.bottom-panel div{
+    color: #fff;
+
+}
